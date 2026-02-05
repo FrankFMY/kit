@@ -1,5 +1,14 @@
 # @sveltejs/adapter-node
 
+## 5.5.3
+### Patch Changes
+
+
+- chore(deps): update dependency `@rollup/plugin-commonjs` to v29 ([#14856](https://github.com/sveltejs/kit/pull/14856))
+
+- Updated dependencies [[`37293a5`](https://github.com/sveltejs/kit/commit/37293a5c913b014e823bc823f2c8c6da38b88d6e), [`b1fc959`](https://github.com/sveltejs/kit/commit/b1fc95966e0aeee689fdae71fa488c34b4806303), [`c690579`](https://github.com/sveltejs/kit/commit/c690579620e131cd077ded0bc8e55090d3681d35), [`0f38f49`](https://github.com/sveltejs/kit/commit/0f38f498e0e7052db7b8cfe9ea892e7882a67b66)]:
+  - @sveltejs/kit@2.51.0
+
 ## 5.5.2
 ### Patch Changes
 
